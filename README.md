@@ -17,8 +17,7 @@ This is a simple and fun project to get young STEM enthusiasts to work on a hall
 # Set up
 Carve a pumpkin. Be creative. Just make sure you can insert the circuit in at the end.
 This was mine:
-
-#ADD IMAGE
+![picture alt](https://i.ibb.co/jVySGbp/20211004-193129.jpg "Carved pumpkin")
 
 # Hardware
 - Connecting the rig is simple. I used the references here to connect the Voice Hat to the pi. This frees ups the remaining pins for the leds and the motion sensor.
@@ -39,6 +38,7 @@ I used a single pin for all the leds. You can modify the code to use multiple pi
 
 # Result
 See for yourself
+https://youtu.be/8EMfsZxwSSo
 
 # Feedback
 Feedback is welcome. Upgrades to the code, connection or new ides are always nice. Thanks.
